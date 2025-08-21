@@ -1,0 +1,34 @@
+# E-COMMERCE-KPI-ANALYSIS
+## Project Overview
+The goal was to design a **KPI dashboard** that tracks and visualizes key performance metrics for  e-commerce. The dashboard helps stakeholders monitor performance, identify trends, and make data-driven decisions.
+
+**Tools Used:**
+- Power BI / Excel
+- Python / Pandas
+
+** The dashboard tracks the following KPIs**
+- Total Revenue
+- Average Order Value
+- Conversion Rate
+- Return Rate
+- Churn Rate
+- High Value Customers by revenue
+- Top 10 items sold
+- Revenue by season - Winter / Autumn / Summer/ Rainy
+- Items most frequently bought together
+
+**Interactive visuals:** Users can filter by Region or by Season to explore the data. 
+
+** Screenshot
+![Dashboard Page 1](https://github.com/Rashmisharma0101/E-commerce-KPI-analysis---Dashboard/blob/main/Screenshot%20Dashboard.jpg)
+
+** How to Use **
+- Open the Power BI file (`pbix/Phase2_KPI_Dashboard.pbix`) in Power BI Desktop.  
+- Load the data from `data/` folder (sample data provided).  
+- Explore KPIs using filters, slicers, and drill-downs.
+
+** Notes / Learnings **
+- Learned how to calculate and visualize KPIs
+- Handled data cleaning, missing values, and aggregation in Power BI / Python
+- Learned to create interactive dashboards suitable for stakeholder reporting
+
