@@ -20,7 +20,7 @@ The goal was to design a **KPI dashboard** that tracks and visualizes key perfor
 **Interactive visuals:** Users can filter by Region or by Season to explore the data. 
 
 ** Screenshot
-![Dashboard Page 1](https://github.com/Rashmisharma0101/E-commerce-KPI-analysis---Dashboard/blob/main/Screenshot%20Dashboard.jpg)
+![Dashboard Page 1](https://github.com/Rashmisharma0101/E-commerce-KPI-analysis---Dashboard/raw/main/Screenshot%20Dashboard.jpg)
 
 ** How to Use **
 - Open the Power BI file (`pbix/Phase2_KPI_Dashboard.pbix`) in Power BI Desktop.  
