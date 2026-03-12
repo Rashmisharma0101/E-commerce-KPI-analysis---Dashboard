@@ -355,7 +355,7 @@ print("\nPeriodic Churn %:\n", periodic_churn)
 # In[15]:
 
 
-# retention_pct is your retention % matrix with NaNs
+# retention_pct is retention % matrix with NaNs
 overall_churns = []
 
 for cohort in retention_pct.index:
